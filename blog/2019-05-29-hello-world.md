@@ -7,7 +7,8 @@ author_url: https://github.com/88pronet
 tags: [hello]
 ---
 
-Welcome to this blog. This blog is created with [**Docusaurus 2 alpha**](https://v2.docusaurus.io/).
+Welcome to this blog. This blog is created with
+[**Docusaurus 2 alpha**](https://v2.docusaurus.io/).
 
 <!--truncate-->
 
